@@ -1,0 +1,23 @@
+.project_container{
+    padding: 2rem;
+
+}
+
+.title_container{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 2rem;
+    margin-right: 0.6rem;
+}
+
+.remove{
+    height: 50px;
+    font-size: 1.1rem;
+    text-align: center;
+    font-weight: 500;
+}
+
+.titleProject{
+    font-weight: 500;
+    margin: 0 auto;
+}
